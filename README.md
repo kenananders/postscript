@@ -1,1 +1,3 @@
-# postscript ![Vid](https://www.youtube.com/watch?v=PmjZfmeQtyM)
+# postscript <br>
+
+!(Vid)[https://www.youtube.com/watch?v=PmjZfmeQtyM]
