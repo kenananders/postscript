@@ -8,4 +8,4 @@ The program is run by simply running the 'psip.py' file with 'python psip.py'. I
 
 Switching between Dynamic and Lexical scoping is done by entering 'dynamic' or 'lexical' when the interpreter is running. It will print the switch to console when entered. The interpreter uses Dynamic Scoping by default and has mostly implemented the Lexical scoping logic with working subfunctions.  
 
-The following is a [Demonstration Video](https://www.youtube.com/watch?v=PmjZfmeQtyM) that demonstrates most of the function capability, how to run the interpreter (and test cases), and how to switch between Dynamic and Lexical scoping. 
+This is a [Demonstration Video](https://www.youtube.com/watch?v=PmjZfmeQtyM) that demonstrates most of the function capability, how to run the interpreter (and test cases), and how to switch between Dynamic and Lexical scoping. 
